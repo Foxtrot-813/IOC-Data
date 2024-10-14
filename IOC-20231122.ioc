@@ -11,7 +11,7 @@ IOC 78dae33cf64c34611e0fa339029cfc65afac49bb6356a5c6aeb16707e5e57fa7   /var/www
 IOC D33B3A17910AEF9E9C5703EE5E013EC363E19BE6B54388A0508AC67E01657D78   /Test
 # Strings follow.  These are strings  that may indicate  problems
 STR string directory
-STR IFZvbHVtZSBpbiBkcml2ZS /var/www
+STR IFZvbHVtZSBpbiBkcml2ZS  \Test
 STR PSEXECscv	/data/share/windows
 STR "/eval\(|rot13\(/"  /var/www
 STR "r0nin|m0rtix|upl0ad|r57shell|phpshell|Made.*DrIbi5" /var/www
